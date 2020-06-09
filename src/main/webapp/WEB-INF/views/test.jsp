@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	연습중 입니다!!!!
+	연습중 입니다!!!!<br>
 	내용수정되었습니다 확인해주세요!!!
 </body>
 </html>
